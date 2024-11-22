@@ -1,4 +1,4 @@
 - 👋 Hi there ! 
-- 👀 I’m interested in Coding and Design
+- 👀 I’m interested in Coding and Designing
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on any cool project
